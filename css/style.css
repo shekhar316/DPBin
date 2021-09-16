@@ -1,0 +1,113 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    color: #FFFFFF;
+    background-color: #20232A;
+}
+
+.box{
+    min-height: 100vh;
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.marginBottom30{
+    margin-bottom: 20px;
+}
+
+.imgwidth100{
+    width: 100%;
+}
+
+.textColorGrey{
+    color: rgb(135,144,163);
+}
+
+.btnDrakGreen{
+    background-color: #3d6b22;
+    color: white;
+}
+
+.header{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    top: 0px;
+    display: flex;
+    width: 100%;
+    background-color: #111827;
+    padding: 20px;
+}
+
+.footer{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #111827;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.card-body{
+    padding: 20px;
+}
+
+.row{
+    margin: 10px 0px;
+}
+
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tableBox{
+    padding: 20px;
+}
+
+.dataTables_info{
+    color: white !important;
+}
+
+.dataTables_length{
+    color: white !important;
+}
+
+select{
+    color: white !important;
+    background-color: #111827 !important;
+}
+
+.myTable_filter{
+    color: white !important;
+}
+label{
+    color: white;
+}
+
+
+input{
+    color: white !important;
+    background-color: #111827 !important;
+    border: 1px solid white;
+}
+
+
+.dataTables_paginate paging_simple_numbers{
+    color: white !important;
+}
+
+.dataTables_paginate paging_simple_numbers a{
+    color: white !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    color: white !important;
+    background-color: #3d6b22 !important;
+}

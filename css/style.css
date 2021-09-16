@@ -111,3 +111,7 @@ input{
     color: white !important;
     background-color: #3d6b22 !important;
 }
+
+.marginBottom30 btn{
+    margin: 20px;
+}
